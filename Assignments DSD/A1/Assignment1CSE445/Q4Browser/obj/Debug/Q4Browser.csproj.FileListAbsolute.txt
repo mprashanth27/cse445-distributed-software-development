@@ -1,0 +1,10 @@
+C:\Users\prash\source\repos\Assignment1CSE445\Q4Browser\bin\Debug\Q4Browser.exe.config
+C:\Users\prash\source\repos\Assignment1CSE445\Q4Browser\bin\Debug\Q4Browser.exe
+C:\Users\prash\source\repos\Assignment1CSE445\Q4Browser\bin\Debug\Q4Browser.pdb
+C:\Users\prash\source\repos\Assignment1CSE445\Q4Browser\obj\Debug\Q4Browser.csproj.AssemblyReference.cache
+C:\Users\prash\source\repos\Assignment1CSE445\Q4Browser\obj\Debug\Q4Browser.Form1.resources
+C:\Users\prash\source\repos\Assignment1CSE445\Q4Browser\obj\Debug\Q4Browser.Properties.Resources.resources
+C:\Users\prash\source\repos\Assignment1CSE445\Q4Browser\obj\Debug\Q4Browser.csproj.GenerateResource.cache
+C:\Users\prash\source\repos\Assignment1CSE445\Q4Browser\obj\Debug\Q4Browser.csproj.CoreCompileInputs.cache
+C:\Users\prash\source\repos\Assignment1CSE445\Q4Browser\obj\Debug\Q4Browser.exe
+C:\Users\prash\source\repos\Assignment1CSE445\Q4Browser\obj\Debug\Q4Browser.pdb

@@ -1,0 +1,7 @@
+C:\Users\prash\source\repos\Assignment1CSE445\Assignment1CSE445\obj\Debug\Assignment1CSE445.csproj.AssemblyReference.cache
+C:\Users\prash\source\repos\Assignment1CSE445\Assignment1CSE445\obj\Debug\Assignment1CSE445.csproj.CoreCompileInputs.cache
+C:\Users\prash\source\repos\Assignment1CSE445\Assignment1CSE445\bin\Assignment1CSE445.dll.config
+C:\Users\prash\source\repos\Assignment1CSE445\Assignment1CSE445\bin\Assignment1CSE445.dll
+C:\Users\prash\source\repos\Assignment1CSE445\Assignment1CSE445\bin\Assignment1CSE445.pdb
+C:\Users\prash\source\repos\Assignment1CSE445\Assignment1CSE445\obj\Debug\Assignment1CSE445.dll
+C:\Users\prash\source\repos\Assignment1CSE445\Assignment1CSE445\obj\Debug\Assignment1CSE445.pdb
